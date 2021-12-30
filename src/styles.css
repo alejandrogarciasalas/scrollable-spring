@@ -1,0 +1,21 @@
+@font-face {
+  font-family: "GT Flexa Variable";
+  font-display: swap;
+  font-style: normal;
+  src: url("/gt-flexa-var-english.woff2") format("woff2");
+}
+
+* {
+  box-sizing: border-box;
+  font-family: "GT Flexa Variable", sans-serif;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  padding: 0;
+  margin: 0;
+  font-weight: 400;
+}
+
+a {
+  text-decoration: none;
+}
